@@ -1,0 +1,6 @@
+vagrant up -- Iniciar a Maquina -- If os comando estiverem certos é só selecionar a conexão de rede e dale
+vagrant ssh -- Ver o ip e verificar se rodou  --- Entra na Máquina
+vagrant destroy -- Se der merda destroy a maquina e faz denovo
+vagrant status – Exibe o estado vigente da máquina virtual.
+vagrant halt – Desliga a máquina.
+ip -br a - Verificar ip da máquina - depois entra no navegador e bota o ip da Maquina
